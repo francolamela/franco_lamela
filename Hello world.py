@@ -48,8 +48,6 @@
 
 # print(tabla_del_7())
 
-#prueba_api_key_id = 2309475349573495305834093958358c
-#prueba_api_key_secret = 57nc98577982d598c7n867n34987k85734975349875398457c973984jd47598dx7m93488sfs85mx87cnj987ds58mn3759mc84398cx938m58d78m93845m89m89
 
 username = "Hola"
 password = "chau"
