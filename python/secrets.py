@@ -2,6 +2,6 @@ api_key_id = 2309475344333495305354678558358c
 api_key_secret = 57nc98577982d598c7n867n34987k85734934827498274827c973984jd47598dx7m84488sfs85mx87cnj987ds58mn3759mc84398cx938m58d78m93845m89m89
 
 if api_key_id > 10:
-  print ("Hello World")
+  print (api_key_id)
  else:
-  print("Bye World")
+  print(api_key_secret)
